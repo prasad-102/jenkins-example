@@ -35,7 +35,7 @@ pipeline {
 			echo 'job was built successfully'
 		}
 		failure {
-			echo 'job was not build..it was failed'
+			echo 'new pipeline changes in jenkins'
 		}
 	}
 }
